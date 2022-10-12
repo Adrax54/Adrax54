@@ -16,10 +16,10 @@ Mostly I'm intrested in ML solutions, also i like games and making music
 - Swift/SwiftUI 🐦
 - Unity 👾
 
+![bored-anime](https://user-images.githubusercontent.com/61554602/195418133-136059f4-7a75-4169-ae4c-468da49e641b.gif)
 
 
 
-![evrima-server](https://user-images.githubusercontent.com/61554602/195417586-36ba84fd-9e81-4ed5-ba65-7b5ed330eaef.gif)
 
 
 <!---
