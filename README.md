@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Adrian
 
+![]("https://github.com/Adrax54/Adrax54/blob/main/doggo.gif")
+
 Im a university student enrolled in systems engineering
 
 Over here you can find most of my class and private projects
