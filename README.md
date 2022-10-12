@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Adrian
 
-![]("https://github.com/Adrax54/Adrax54/blob/main/doggo.gif")
+
+![dog-dance](https://user-images.githubusercontent.com/61554602/195416314-7d049202-f601-4f89-b486-e8a63235173b.gif)
 
 Im a university student enrolled in systems engineering
 
@@ -14,6 +15,11 @@ Mostly I'm intrested in ML solutions, also i like games and making music
 - SQL 🛢
 - Swift/SwiftUI 🐦
 - Unity 👾
+
+
+
+
+![evrima-server](https://user-images.githubusercontent.com/61554602/195417586-36ba84fd-9e81-4ed5-ba65-7b5ed330eaef.gif)
 
 
 <!---
