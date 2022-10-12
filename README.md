@@ -15,6 +15,7 @@ Mostly I'm intrested in ML solutions, also i like games and making music
 - SQL 🛢
 - Swift/SwiftUI 🐦
 - Unity 👾
+- and many more still in development.. 👀 
 
 ![bored-anime](https://user-images.githubusercontent.com/61554602/195418133-136059f4-7a75-4169-ae4c-468da49e641b.gif)
 
