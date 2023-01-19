@@ -1,8 +1,5 @@
 ## 👋 Hi, I’m Adrian
 
-
-![dog-dance](https://user-images.githubusercontent.com/61554602/195416314-7d049202-f601-4f89-b486-e8a63235173b.gif)
-
 Im a university student enrolled in systems engineering
 
 Over here you can find most of my class and private projects
